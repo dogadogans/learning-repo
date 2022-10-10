@@ -1,0 +1,23 @@
+body{
+    background-color: beige;
+}
+
+h1 {
+font-size: 2rem;
+color: salmon;
+}
+
+h2{
+font-size: 1rem;
+color: aqua;
+}
+
+.mid-p{
+color: red;
+
+}
+.p-box{
+background-color: yellow;
+width: 100px;
+height: 200px;
+}
